@@ -21,3 +21,9 @@
    hardware: stm32f103rct6
 
    software: standard peripheral libraries
+   
+5. stm32f10x soft i2c
+
+   hardware: stm32f103rct6
+
+   software: standard peripheral libraries
