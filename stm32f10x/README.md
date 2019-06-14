@@ -15,3 +15,9 @@
    hardware: stm32f103rct6
 
    software: standard peripheral libraries
+   
+4. stm32f10x usart
+
+   hardware: stm32f103rct6
+
+   software: standard peripheral libraries
